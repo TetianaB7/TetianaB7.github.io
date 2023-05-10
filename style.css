@@ -14,5 +14,9 @@ h1 {
 }
 
 ul {
-  
+  display: flex;
+}
+
+li {
+  margin-right: 2rem;
 }
