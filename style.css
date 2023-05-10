@@ -1,5 +1,18 @@
 header {
   display: flex;
   border: 2px solid;
-  padding: 2rem;
+  padding: .5rem 2rem;
+}
+
+svg {
+  height: 4rem;
+  width: auto;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+ul {
+  
 }
