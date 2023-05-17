@@ -15,8 +15,20 @@ h1 {
 
 ul {
   display: flex;
+  flex-flow: row wrap;
 }
 
 li {
   margin-right: 2rem;
+}
+body {
+  display: flex;
+  
+  
+}
+main{
+  border: 2px solid red;
+}
+aside {
+  border: 2px solid green;
 }
