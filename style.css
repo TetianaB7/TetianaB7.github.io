@@ -29,6 +29,8 @@ body {
 main{
   width: 70%;
   border: 2px solid red;
+  padding: 1rem;
+  margin-right: calc(5%-2rem)
 }
 
 aside {
