@@ -32,9 +32,18 @@ main{
 }
 
 aside {
-  widtx: 25%;
+  width: 25%;
   border: 2px solid green;
 }
+
 img{
   width:100%;
+}
+
+footer{
+  border:2px solid blue;
+  widht:100%;
+  height: 30rem;
+  background: lightblue;
+  
 }
