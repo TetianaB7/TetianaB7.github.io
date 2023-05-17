@@ -15,20 +15,26 @@ h1 {
 
 ul {
   display: flex;
-  flex-flow: row wrap;
 }
 
 li {
   margin-right: 2rem;
 }
+
 body {
   display: flex;
-  
-  
+  flex-flow: row wrap;
 }
+
 main{
+  width: 70%;
   border: 2px solid red;
 }
+
 aside {
+  widtx: 25%;
   border: 2px solid green;
+}
+img{
+  width:100%;
 }
