@@ -30,21 +30,24 @@ main{
   width: 70%;
   border: 2px solid red;
   padding: 1rem;
-  margin-right: calc(5%-2rem)
+  margin-right: calc(5%-2rem);
+  background: 
 }
 
 aside {
-  width: 25%;
-  border: 2px solid green;
+  width: 70%;
+  border: 2px solid violet;
+  background: lightpink;
 }
 
 img{
   width:100%;
+  border: 2px solid grey;
 }
 
 footer{
   border:2px solid blue;
-  widht:100%;
+  widht:10%;
   height: 30rem;
   background: lightblue;
   
